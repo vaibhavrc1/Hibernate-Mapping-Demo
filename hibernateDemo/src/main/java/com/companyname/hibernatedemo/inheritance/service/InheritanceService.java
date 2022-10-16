@@ -6,7 +6,7 @@ import com.companyname.hibernatedemo.inheritance.repository.InheritanceRepositor
 
 public class InheritanceService {
 
-	public void runTablePerColumnService() {
+	public void runInheritance() {
 		SoftwareEngineer se=new SoftwareEngineer();
 		se.setName("helloSE");
 		se.setEmail("hello@se.com");

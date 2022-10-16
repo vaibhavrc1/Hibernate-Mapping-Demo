@@ -57,7 +57,7 @@ public class Controller {
 	
 	private void runInheritance() {
 		InheritanceService service=new InheritanceService();
-		service.runTablePerColumnService();
+		service.runInheritance();
 	}
 	
 	private void runManyToOneUni() {
