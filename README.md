@@ -9,7 +9,7 @@ Steps for setup:
 
 3.Import this repository using import as maven project in your IDE
 
-4.Change the no=0 variable to different value in main class to different value
+4.Change the no=0 variable to different value in main class
 Example: int no=1;
 
 5.Uncomment the mapping section for the number you selected in hibernate.cfg.config file
