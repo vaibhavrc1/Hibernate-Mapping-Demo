@@ -14,6 +14,7 @@ Example: int no=1;
 
 5.Uncomment the mapping section for the number you selected in hibernate.cfg.config file
 Example: 
+
 		<!--1-->
 		<!--Inheritance--> 
 		<mapping class="com.companyname.hibernatedemo.inheritance.beans.Employee"/>
